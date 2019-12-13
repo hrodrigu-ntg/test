@@ -1,2 +1,2 @@
 # test
-test de repositorio
+Este es un ejercicio indagatorio y experimental
